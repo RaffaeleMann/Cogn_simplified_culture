@@ -1,1 +1,1 @@
-# Cogn_simplified_culture
+# Simplified_culture
