@@ -29,6 +29,11 @@ This folder contains datasets used to evaluate the simplification capabilities o
        - Claude Sonnet 3.5
        - GPT-4
 
+## LLM Evaluation
+
+For the evaluation of the LLMs, we used a subsample of the original dataset (`3000_HistoricOrArtisticProperty.jsonl`). Specifically, we used the first 200 descriptions from this dataset to test the simplification capabilities of Claude Sonnet 3.5 and GPT-4. The results of this evaluation are contained in the `output_simplification_llms.tsv` file.
+
+
 ## Usage
 
 These datasets are intended for researchers and developers interested in:
