@@ -21,17 +21,10 @@ This folder contains datasets used to evaluate the simplification capabilities o
      - Flesch Reading Ease Score
      - Word count of fundamental vocabulary words
 
-3. `output_simplification_llms.tsv`
-   - Contains:
-     - Original cultural object names
-     - Original descriptions
-     - Simplified outputs from:
-       - Claude Sonnet 3.5
-       - GPT-4
 
 ## LLM Evaluation
 
-For the evaluation of the LLMs, we used a subsample of the original dataset (`3000_HistoricOrArtisticProperty.jsonl`). Specifically, we used the first 200 descriptions from this dataset to test the simplification capabilities of Claude Sonnet 3.5 and GPT-4. The results of this evaluation are contained in the `output_simplification_llms.tsv` file.
+For the evaluation of the LLMs, we used a subsample of the original dataset (`3000_HistoricOrArtisticProperty.jsonl`). Specifically, we used the first 200 descriptions from this dataset to test the simplification capabilities of Claude Sonnet 3.5 and GPT-4. The results of this evaluation are contained in the output folder.
 
 
 ## Usage
