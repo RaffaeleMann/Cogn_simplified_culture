@@ -1,4 +1,4 @@
-3. `output_simplification_llms.tsv`
+1. `output_both_llms_P1.tsv`
    - Contains:
      - Original cultural object names
      - Original descriptions
