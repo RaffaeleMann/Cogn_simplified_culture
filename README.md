@@ -46,14 +46,16 @@ Sono stati utilizzati tre prompt zero-shot, progettati con un livello di specifi
 | **P1** | Semplifica per persone con disabilità cognitive queste descrizioni tecniche |
 | **P2** | Per ogni descrizione tecnica, dammi in output una descrizione semplificata per persone con disabilità cognitive da inserire in un pannello informativo in un museo |
 | **P3** | Per ogni descrizione tecnica del dominio dei beni culturali, dammi in output una descrizione semplificata per persone con disabilità cognitive da inserire in un pannello informativo in un museo mantenendo tutte le informazioni |
- 
+
+### Valutazione
+
 ---
 
 ## Struttura del repository
  
 ```
 .
-├── dati/
+├── output/
 │    ├── ChatGPT_P1.tsv
 │    ├── ChatGPT_P2.tsv
 │    ├── ChatGPT_P3.tsv
@@ -69,7 +71,7 @@ Sono stati utilizzati tre prompt zero-shot, progettati con un livello di specifi
 │    ├── P3_ChatGPT_annotazione_qualitativa.tsv
 │    ├── P3_Claude_Sonnet_annotazione_qualitativa.tsv
 |    └── README.md         
-├── resultati/
+├── risultati/
 │    ├── README.md 
 └── README.md
 ```
