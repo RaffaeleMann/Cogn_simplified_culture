@@ -69,7 +69,7 @@ Sono stati utilizzati tre prompt zero-shot, progettati con un livello di specifi
 │    ├── P3_ChatGPT_annotazione_qualitativa.tsv
 │    ├── P3_Claude_Sonnet_annotazione_qualitativa.tsv
 |    └── README.md         
-├── resultati/
+├── risultati/
 │    ├── README.md 
 └── README.md
 ```
