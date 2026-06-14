@@ -93,4 +93,4 @@ Il dataset e i file di annotazione presenti in questo repository sono rilasciati
  
 Se utilizzi questo dataset o questi risultati nella tua ricerca, cita il contributo come segue:
 
-Speranza, G., Di Buono, M. P., & Manna, R. (in press). Diritto alla cultura e  disabilità cognitiva. L'IA generativa può supportare la comunicazione in ambito  culturale? In *Atti del XXV Congresso Internazionale AItLA "La semplificazione linguistica per la comunicazione: tecnologie in contesto"*. Università di Macerata, 19-21 febbraio 2025.
+Speranza, G., Di Buono, M. P., & Manna, R. (in press). Diritto alla cultura e  disabilità cognitiva. L'IA generativa può supportare la comunicazione in ambito  culturale?. Studi AITLA 20 (2026).
